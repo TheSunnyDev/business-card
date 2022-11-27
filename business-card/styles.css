@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #D3C4E3;
+    color: #36393B;
+    border-bottom: 8px solid #DBB1BC;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
